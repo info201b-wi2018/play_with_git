@@ -1,5 +1,5 @@
 # play_with_git
-Enjoy
+Enjoy, something about Soccer.
 
 ## The Best Teams!
 
