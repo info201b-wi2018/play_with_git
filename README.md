@@ -11,6 +11,8 @@ Enjoy, something about Soccer.
 ![the coach](monkey.jpg)
 
 ## Orienteering!
+What's that?
 
 ![](orienteering.jpg)
  
+ -- is cool!
