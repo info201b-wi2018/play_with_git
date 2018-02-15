@@ -9,3 +9,7 @@ Enjoy
 
 ### Coach of FC Barelona:
 ![the coach](monkey.jpg)
+
+## Orienteering!
+
+![](orienteering.jpg)
