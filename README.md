@@ -14,5 +14,5 @@ Enjoy, something about Soccer.
 What's that?
 
 ![](orienteering.jpg)
- 
  -- is cool!
+ -- Is it some sort of Asian Engineering.
